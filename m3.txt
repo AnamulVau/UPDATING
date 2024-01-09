@@ -1,1 +1,1 @@
-[LHGT/LH0G;LHGB/845.6.6.06.787;LHHB/802444722;LHJS/{jktyoze=9.6,cojzn=7646,nkomnz=7332};LHRI/kt_MH;LHXB/804709981;LHIX/POU 0M;LHSL/suzuxurg;LHHJ/suzuxurg;LHVT/ius.lgikhuuq.qgzgtg;LHJB/Suzu M (1);LHYB/4.7.6;LHUV/7;LHIG/gxskgho-b3g:gxskgho;]
+[FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=1.75,width=720,height=1382};FBLC/en_US;FBCR/Orange;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A105F;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
