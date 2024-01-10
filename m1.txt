@@ -1,1 +1,1 @@
-[LHGT/LH0G;LHGB/838.6.6.16.781;LHHB/872401174;LHJS/{jktyoze=8.281,cojzn=7646,nkomnz=7586};LHRI/kt_AY;LHXB/874074897;LHIX/tarr;LHSL/HarrozzMxuavRosozkj;LHHJ/Igz;LHVT/ius.lgikhuuq.qgzgtg;LHJB/Y07;LHYB/4.6.6;LHUV/7;LHIG/gxskgho-b3g:gxskgho;]
+[FBAN/FB4A;FBAV/316.0.0.54.116;FBBV/287518977;FBDM/{density=1.275,width=540,height=1071};FBLC/en_US;FBRV/0;FBCR/Tele2;FBMF/DOOGEE;FBBD/DOOGEE;FBPN/com.facebook.katana;FBDV/X70;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
