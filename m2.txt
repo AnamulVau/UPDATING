@@ -1,1 +1,1 @@
-[LHGT/LH0G;LHGB/916.7.6.85.762;LHHB/903663702;LHJS/{jktyoze=8.6,cojzn=386,nkomnz=7900};LHRI/kt_MH;LHXB/6;LHIX/YutgroHgtq;LHSL/Skofa;LHHJ/Skofa;LHVT/ius.lgikhuuq.qgzgtg;LHJB/skofa I5 vxu;LHYB/4.7.6;LHUV/tarr;LHIG/gxskgho-b3g:gxskgho;]
+[FBAN/FB4A;FBAV/275.0.0.49.127;FBBV/221372471;FBDM/{density=1.0,width=1280,height=752};FBLC/en_GB;FBRV/225933467;FBCR/;FBMF/LENOVO;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo TB-X104F;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
