@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/428.0.0.35.115;FBPN/com.facebook.orca;FBLC/en_US;FBBV/520514424;FBCR/Telstra;FBMF/ZTE;FBBD/ZTE;FBDV/Z6356T;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1476};FB_FW/1;]
+[LHGT/Uxig-Gtjxuoj;LHGB/842.6.6.87.788;LHVT/ius.lgikhuuq.uxig;LHRI/kt_AY;LHHB/816225956;LHIX/Pou 0M;LHSL/bobu;LHHJ/bobu;LHJB/bobu 7372;LHYB/4.7.6;LHIG/gxskgho-b3g:gxskgho;LHJS/{jktyoze=8.6,cojzn=386,nkomnz=7912};LH_LC/7;]
