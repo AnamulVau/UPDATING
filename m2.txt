@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/280.0.0.41.122;FBBV/205281674;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/0;FBCR/Robi | Airtel;FBMF/Nimbus;FBBD/Eclipse;FBPN/com.facebook.katana;FBDV/Eclipse;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[LHGT/LH0G;LHGB/827.6.6.18.782;LHHB/868247131;LHJS/{jktyoze=7.31,cojzn=386,nkomnz=7089};LHRI/kt_AY;LHXB/6;LHIX/hgtmrgrotq;LHSL/ygsyatm;LHHJ/ygsyatm;LHVT/ius.lgikhuuq.qgzgtg;LHJB/YS-G861A;LHYB/76;LHUV/75;LHIG/gxs20-b4g:;]
