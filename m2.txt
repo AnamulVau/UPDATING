@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/263.0.0.46.121;FBBV/205281674;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/0;FBCR/airtel | robi;FBMF/Apex;FBBD/Meteor;FBPN/com.facebook.katana;FBDV/Meteor;FBSV/11.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
