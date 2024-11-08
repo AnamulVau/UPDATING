@@ -1,1 +1,0 @@
-[FBAN/FB4A;FBAV/277.0.0.4.173;FBPN/com.facebook.katana;FBDM/{density=4.0,width=1440,height=2392};FBLC/en_US;FBBV/16838467;FBCR/Airtel;FBMF/Philips;FBBD/Philips;FBDV/PI3900;FBSV/12;FBOP/19;FBCA/armeabi-v7a:armeabi;]
