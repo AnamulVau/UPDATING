@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/304.0.0.3.65;FBPN/com.facebook.katana;FBDM/{density=2.0,width=2560,height=1600};FBLC/en_US;FBBV/9111524;FBCR/Banglalink;FBMF/CYX Group;FBBD/CYX Group;FBDV/A7008;FBSV/12;FBOP/19;FBCA/armeabi-v7
